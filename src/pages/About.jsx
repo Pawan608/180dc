@@ -1,13 +1,13 @@
 import React from 'react'
-import Nav from '../components/Nav'
-import Footer from '../components/Footer'
-import car_2 from '../assets/carousel_2.jpeg'
-import AU_1 from '../assets/AU_1.png'
-import AU_2 from '../assets/AU_2.png'
-import AU_3 from '../assets/AU_3.png'
-import fadeInSection from "../components/cards/FadeInSection.jsx";
-import FadeInSection from "../components/cards/FadeInSection.jsx";
-import MEE from "../assets/MEE.png";
+import Nav from '/src/components/Nav'
+import Footer from '/src/components/Footer'
+import car_2 from '/src/assets/carousel_2.jpeg'
+import AU_1 from '/src/assets/AU_1.png'
+import AU_2 from '/src/assets/AU_2.png'
+import AU_3 from '/src/assets/AU_3.png'
+import fadeInSection from "/src/components/cards/FadeInSection.jsx";
+import FadeInSection from "/src/components/cards/FadeInSection.jsx";
+import MEE from "/src/assets/MEE.png";
 
 function Stats(props) {
     return (<div className='flex flex-col justify-center items-center m-8'>
