@@ -1,12 +1,12 @@
-import Ayush from '../assets/pic/ayush.jpg';
-import Barari from '../assets/pic/barari.jpg';
-import Kaushik from '../assets/pic/kaushik.jpg';
-import Rishav from '../assets/pic/rishav.jpg';
-import Ritika from '../assets/pic/ritika.jpg';
-import Yash from '../assets/pic/yash.jpg';
-import C from '../assets/pic/c.jpg';
-import B from '../assets/pic/b.jpg';
-import R from '../assets/pic/r.jpg';
+import Ayush from '/src/assets/pic/ayush.jpg';
+import Barari from '/src/assets/pic/barari.jpg';
+import Kaushik from '/src/assets/pic/kaushik.jpg';
+import Rishav from '/src/assets/pic/rishav.jpg';
+import Ritika from '/src/assets/pic/ritika.jpg';
+import Yash from '/src/assets/pic/yash.jpg';
+import C from '/src/assets/pic/c.jpg';
+import B from '/src/assets/pic/b.jpg';
+import R from '/src/assets/pic/r.jpg';
 
 const profiles = [{
     id: 1,
