@@ -1,14 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
+import App from '/src/App'
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import About from './pages/About';
-import ContactUs from './pages/ContactUs';
-import Services from './pages/Services';
-import FullTeam from './pages/FullTeam';
+import About from '/src/pages/About';
+import ContactUs from '/src/pages/ContactUs';
+import Services from '/src/pages/Services';
+import FullTeam from '/src/pages/FullTeam';
 
 
 const router = createBrowserRouter([
