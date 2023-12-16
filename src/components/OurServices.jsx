@@ -1,12 +1,12 @@
 import React from "react";
-import MEE from "../assets/MEE.png";
-import IM from "../assets/IM.png";
-import SEO from "../assets/SEO.png";
-import MB from "../assets/MB.png";
-import OM from "../assets/OM.png";
-import FM from "../assets/FM.png";
-import middleSVG from "../assets/middleSVG.png";
-import FadeInSection from "../components/cards/FadeInSection";
+import MEE from "/src/assets/MEE.png";
+import IM from "/src/assets/IM.png";
+import SEO from "/src/assets/SEO.png";
+import MB from "/src/assets/MB.png";
+import OM from "/src/assets/OM.png";
+import FM from "/src/assets/FM.png";
+import middleSVG from "/src/assets/middleSVG.png";
+import FadeInSection from "/src/components/cards/FadeInSection";
 
 function OurServices() {
   return (
