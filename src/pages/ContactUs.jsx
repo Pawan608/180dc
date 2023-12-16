@@ -1,9 +1,8 @@
 import React from "react";
-import insta from '../assets/insta.png'
-import linkedIn from '../assets/linkedin.png'
-import mail from '../assets/mail.png'
-import FadeInSection from '../components/cards/FadeInSection'
-import {Label, TextInput, Checkbox, Button, Textarea} from "flowbite-react";
+import insta from '../assets/insta.png';
+import linkedIn from '/src/assets/linkedIn.png';
+import mail from '/src/assets/mail.png';
+import FadeInSection from '../components/cards/FadeInSection';
 import Nav from "../components/Nav";
 import {useRef} from 'react';
 import emailjs from '@emailjs/browser';
