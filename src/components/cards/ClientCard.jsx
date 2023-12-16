@@ -1,5 +1,4 @@
 import React from "react"
-import FadeInSection from "./FadeInSection"
 
 
 function ClientCard(props){
