@@ -1,13 +1,13 @@
 import React from 'react'
-import Nav from '../components/Nav'
-import Footer from '../components/Footer'
-import mab from '../assets/SMAB.png'
-import fm from '../assets/SFM.png'
-import im from '../assets/SIM.png'
-import meae from '../assets/SMEAE.png'
-import om from '../assets/SOM.png'
-import seo from '../assets/SSEO.png'
-import car_2 from "../assets/bg.png";
+import Nav from '/src/components/Nav'
+import Footer from '/src/components/Footer'
+import mab from '/src/assets/SMAB.png'
+import fm from '/src/assets/SFM.png'
+import im from '/src/assets/SIM.png'
+import meae from '/src/assets/SMEAE.png'
+import om from '/src/assets/SOM.png'
+import seo from '/src/assets/SSEO.png'
+import car_2 from "/src/assets/bg.png";
 
 
 function Flip(props) {
