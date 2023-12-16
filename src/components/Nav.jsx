@@ -1,7 +1,7 @@
 import { useState } from "react";
 import React from "react";
-import logo from "../assets/logo_nav.png";
-import { navlinks } from "../data/navlinks";
+import logo from "/src/assets/logo_nav.png";
+import { navlinks } from "/src/data/navlinks";
 import { Link } from "react-router-dom";
 export default function Nav() {
   const [navbar, setNavbar] = useState(false);
