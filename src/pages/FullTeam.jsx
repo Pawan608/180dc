@@ -1,10 +1,10 @@
 import React from "react";
-import {profiles} from '../data/team';
-import FadeInSection from '../components/cards/FadeInSection'
-import Nav from '../components/Nav'
-import Footer from '../components/Footer'
-import car_2 from "../assets/carousel_3.jpg";
-import Linkedin from "../assets/linkedIn.png"
+import {profiles} from '/src/data/team';
+import FadeInSection from '/src/components/cards/FadeInSection'
+import Nav from '/src/components/Nav'
+import Footer from '/src/components/Footer'
+import car_2 from "/src/assets/carousel_3.jpg";
+import Linkedin from "/src/assets/linkedIn.png"
 
 function scrollToElement(id) {
     document.getElementById(id).scrollIntoView();
