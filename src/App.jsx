@@ -1,12 +1,12 @@
 import React from "react";
-import index from './index.css';
-import HomeCarousel from "./components/HomeCarousel";
-import WhoAreWe from "./components/WhoAreWe";
-import OurServices from "./components/OurServices";
-import Footer from "./components/Footer";
-import OurClients from "./components/OurClients";
-import Navbar from "./components/Nav";
-import OurAdvisors from "./components/OurAdvisors";
+import index from '/src/index.css';
+import HomeCarousel from "/src/components/HomeCarousel";
+import WhoAreWe from "/src/components/WhoAreWe";
+import OurServices from "/src/components/OurServices";
+import Footer from "/src/components/Footer";
+import OurClients from "/src/components/OurClients";
+import Navbar from "/src/components/Nav";
+import OurAdvisors from "/src/components/OurAdvisors";
 
 
 function App() {
