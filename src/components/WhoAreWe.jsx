@@ -1,6 +1,6 @@
 import React from "react";
-import FadeInSection from "../components/cards/FadeInSection";
-import index from "../index.css";
+import FadeInSection from "/src/components/cards/FadeInSection";
+import index from "/src/index.css";
 import jQuery from "jquery";
 
 const WhoAreWe = () => {
