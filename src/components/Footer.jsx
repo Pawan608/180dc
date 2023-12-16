@@ -1,7 +1,7 @@
 import React from "react";
-import insta from "../assets/insta.png";
-import linkedIn from "../assets/linkedInFooter.png";
-import mail from "../assets/mail.png";
+import insta from "/src/assets/insta.png";
+import linkedIn from "/src/assets/linkedInFooter.png";
+import mail from "/src/assets/mail.png";
 
 export default function Footer() {
     return (
