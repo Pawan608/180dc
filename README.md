@@ -45,8 +45,6 @@ PS C:\Users\Desktop\myProject> code .
 
 - **folder structure :**
 
-![Folder Structure](/assets/FolderSructure.png)
-
 - `public` : public directory for show publicly show.
 - `src` : the _src_ is source directory. this not show publicly.
 - `main.jsx` : This file is return all components.
