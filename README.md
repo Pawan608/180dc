@@ -1,4 +1,4 @@
-# 🎓 Vite Js ![vite](./assets/vite.svg) + React ![react](./assets/react.svg)
+# 🎓 Vite Js  + React 
 
 ## 📌 VS Code Setting end Dependency
 
@@ -12,7 +12,6 @@
 
 **OK**
 
-![Emmet Include Languages](./assets/vsCodeSettingEmmetIncludeLanguages.png)
 
 ## 📌 Install Vite + React
 
