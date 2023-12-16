@@ -1,17 +1,17 @@
 import React from 'react'
-import FadeInSection from '../components/cards/FadeInSection'
-import Nitin from '../assets/pic/Nitin-Kumar.jpeg';
-import Ashutosh from '../assets/pic/ashutosh.jpeg';
-import Kishlay from '../assets/pic/kishlayjha.jpeg';
-import Hiba from '../assets/pic/ashraf.jpeg';
-import Manish from '../assets/pic/manish.jpeg';
-import linkedIn from '../assets/linkedin.png';
+import FadeInSection from '/src/components/cards/FadeInSection'
+import Nitin from '/src/assets/pic/Nitin-Kumar.jpeg';
+import Ashutosh from '/src/assets/pic/ashutosh.jpeg';
+import Kishlay from '/src/assets/pic/kishlayjha.jpeg';
+import Hiba from '/src/assets/pic/ashraf.jpeg';
+import Manish from '/src/assets/pic/manish.jpeg';
+import linkedIn from '/src/assets/linkedin.png';
 
 function AdvisorCard(props){
     return(
         <div className='w-56 hover:scale-110 transition-all delay-100'>
                 <div className='group hover:bg-lime-600 text-lime-600 hover:text-white shadow-2xl hover:shadow-2xl transition-all delay-100 flex flex-col justify-center items-center w-full h-full p-2 border rounded-2xl'>
-                    <img src={props.Img} alt="..." className='h-44 w-44 m-2 group-hover:grayscale(100%) group-hover:blur-[1px] rounded-full outline outline-3 outline-offset-4 outline-lime-600' />
+                    <img src={props.Img} alt="/src." className='h-44 w-44 m-2 group-hover:grayscale(100%) group-hover:blur-[1px] rounded-full outline outline-3 outline-offset-4 outline-lime-600' />
                     <div className=' h-full w-full absolute bottom-6 group-hover:bottom-[86px] transition-all delay-100 p-3 flex justify-center items-center'>
                         <a href={props.linkedIn} target="_blank"><img src={linkedIn} alt="..." className='h-10 w-10 hover:scale-150 transition-all delay-140 hover:shadow-2xl shadow-black'/></a>
                     </div>
