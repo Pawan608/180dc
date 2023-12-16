@@ -1,11 +1,11 @@
 import React from 'react'
-import FadeInSection from '../components/cards/FadeInSection'
-import ClientCard from './cards/ClientCard';
-import Spartificial from '../assets/pic/spartificial.png'
-import Indibni from '../assets/pic/indibni.png'
-import EarthTatva from '../assets/pic/et.jpg'
-import Pratigya from '../assets/pic/pratigya.jpg'
-import Boxboy from '../assets/pic/boxboy_logo.jpeg'
+import FadeInSection from '/src/components/cards/FadeInSection'
+import ClientCard from '/src/components/cards/ClientCard';
+import Spartificial from '/src/assets/pic/spartificial.png'
+import Indibni from '/src/assets/pic/indibni.png'
+import EarthTatva from '/src/assets/pic/et.jpg'
+import Pratigya from '/src/assets/pic/pratigya.jpg'
+import Boxboy from '/src/assets/pic/boxboy_logo.jpeg'
 
 
 function OurClients() {
