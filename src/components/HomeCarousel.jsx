@@ -1,10 +1,10 @@
 import { Carousel } from "flowbite-react";
-import MNSTK from "../assets/180DC-MONO-STACKED.png";
-import DA from "../assets/down-arrow.png";
-import video from "../assets/180dc.mp4";
-import car_1 from "../assets/carousel_1_final.png";
-import car_2 from "../assets/carousel_2.jpeg";
-import car_3 from "../assets/carousel_3.jpg";
+import MNSTK from "/src/assets/180DC-MONO-STACKED.png";
+import DA from "/src/assets/down-arrow.png";
+import video from "/src/assets/180dc.mp4";
+import car_1 from "/src/assets/carousel_1_final.png";
+import car_2 from "/src/assets/carousel_2.jpeg";
+import car_3 from "/src/assets/carousel_3.jpg";
 
 export default function HomeCarousel() {
   return (
